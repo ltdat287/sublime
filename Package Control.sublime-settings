@@ -1,0 +1,19 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Emmet",
+		"Package Control",
+		"SFTP",
+		"Shell Exec",
+		"SideBarEnhancements",
+		"sublimelint",
+		"SublimeLinter-phplint",
+		"Theme - Asphalt",
+		"Theme - Brogrammer"
+	]
+}

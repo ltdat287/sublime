@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Dawn.tmTheme",
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"caret_style": "smooth",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Asphalt.sublime-theme"
+}

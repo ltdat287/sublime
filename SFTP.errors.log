@@ -1,0 +1,45 @@
+2015-08-08 17:56:16
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 322, in handle_get_dirs
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 500, in lcd
+SFTP.sftp.errors.NotFoundError: Folder not found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 15, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 113, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 332, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 480, in do_operation
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 34, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 525, in get
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 518, in get
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 328, in handle_get_dirs
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 500, in lcd
+SFTP.sftp.errors.NotFoundError: Folder not found
+2015-08-09 16:40:22
+Traceback (most recent call last):
+  File "C:\Program Files\Sublime Text 3\sublime_plugin.py", line 533, in run_
+    return self.run(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3006, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 134, in create_default_config
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\hp\\Desktop\\eccube-2.12.6en-p1\\sftp-config.json'
+2015-08-24 21:08:43
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 322, in handle_get_dirs
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 500, in lcd
+SFTP.sftp.errors.NotFoundError: Folder not found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 15, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 113, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 332, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 480, in do_operation
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 34, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 525, in get
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 518, in get
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 328, in handle_get_dirs
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 500, in lcd
+SFTP.sftp.errors.NotFoundError: Folder not found
