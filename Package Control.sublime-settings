@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
 		"Emmet",
